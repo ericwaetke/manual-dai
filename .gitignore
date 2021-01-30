@@ -1,3 +1,6 @@
+# Podcast Files
+podcast/*
+
 # Logs
 logs
 *.log

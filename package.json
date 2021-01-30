@@ -1,0 +1,12 @@
+{
+  "name": "manual-dai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ericwaetke/manual-dai.git",
+  "author": "Eric Wätke",
+  "license": "MIT",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "get-audio-duration": "^2.0.3"
+  }
+}
